@@ -10,7 +10,9 @@ import-magnetico-db/import-magnetico-db
 crawl-rss/crawl-rss
 seedleech/seedleech
 spider/spider
-.vscode/
 api/api
 *.txt
 vote-and-donate.html
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
